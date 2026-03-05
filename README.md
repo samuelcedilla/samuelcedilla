@@ -69,10 +69,9 @@ Future projects will focus on:
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelcedilla&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcedilla&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samuelcedilla&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samuelcedilla&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 ### 🌐 Connect with me
