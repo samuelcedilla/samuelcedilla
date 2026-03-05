@@ -1,20 +1,30 @@
 <h1 align="center">Samuel Cedilla</h1>
-<h3 align="center">Infrastructure • Systems • DevOps Enthusiast</h3>
+<h3 align="center">IT Systems • Infrastructure • Cybersecurity Enthusiast</h3>
 
 ---
 
 ### 👋 About me
 
-I am an IT enthusiast focused on **systems administration, infrastructure and automation**.
+I am an IT-oriented professional focused on **systems, infrastructure and technical support**.
 
-Currently studying **Network Systems Administration (ASIR)** while building practical projects around:
+Currently studying **Network Systems Administration (ASIR)** and developing practical skills in:
 
-- Linux systems
-- Infrastructure and networking
-- virtualization and containers
-- automation and DevOps tooling
+• system administration  
+• infrastructure environments  
+• IT support and troubleshooting  
+• cybersecurity fundamentals  
 
-I enjoy experimenting with environments that simulate real infrastructure.
+I enjoy understanding how systems work internally and improving their reliability and efficiency.
+
+---
+
+### 🖥 Areas of Interest
+
+• Systems Administration  
+• IT Infrastructure  
+• Networking  
+• Cybersecurity  
+• Technical Support  
 
 ---
 
@@ -22,36 +32,34 @@ I enjoy experimenting with environments that simulate real infrastructure.
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
 </p>
 
-**Areas of interest**
+Experience working with:
 
-• Systems Administration  
-• DevOps & Automation  
-• Infrastructure as Code  
-• Networking  
-• Cybersecurity fundamentals  
+• Windows and Linux environments  
+• Office and professional business software  
+• basic system configuration and troubleshooting  
+• data and system management  
 
 ---
 
 ### 🚀 Projects
 
 #### Invoice PDF Builder
-Automation tool to generate invoice PDFs from structured data.
+Tool designed to generate invoice PDFs from structured data.
 
 🔗  
 https://github.com/samuelcedilla/a3eco-InvoicePDFBuilder
 
 Future projects will focus on:
 
-- infrastructure labs
-- containerized services
-- automation scripts
-- deployment pipelines
+• infrastructure labs  
+• system administration practices  
+• networking environments  
+• cybersecurity experimentation  
 
 ---
 
@@ -59,11 +67,11 @@ Future projects will focus on:
 
 ![stats](https://github-readme-stats.vercel.app/api?username=samuelcedilla&show_icons=true&theme=tokyonight)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcedilla&layout=compact&theme=tokyonight)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcedilla&layout=compact&theme=tokyonight)
 
 ---
 
-### 🌐 Links
+### 🌐 Connect with me
 
 💼 LinkedIn  
 https://linkedin.com/in/samuelcedillasanchez
@@ -71,9 +79,6 @@ https://linkedin.com/in/samuelcedillasanchez
 📫 Contact  
 samuelcedillasanchez@gmail.com
 
-🌍 Portfolio  
-(coming soon)
-
 ---
 
-⭐ Always learning, building and improving systems
+⭐ Always learning and improving within the IT field
