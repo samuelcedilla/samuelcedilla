@@ -1,7 +1,11 @@
 <h1 align="center">Samuel Cedilla</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=38BDF8&center=true&vCenter=true&width=500&lines=IT+Systems;Infrastructure;Cybersecurity+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=38BDF8&center=true&vCenter=true&width=700&lines=IT+Systems+•+Infrastructure+•+Cybersecurity+Enthusiast"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=samuelcedilla&color=38bdf8&style=flat"/>
 </p>
 
 ---
