@@ -1,5 +1,8 @@
 <h1 align="center">Samuel Cedilla</h1>
-<h3 align="center">IT Systems • Infrastructure • Cybersecurity Enthusiast</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=38BDF8&center=true&vCenter=true&width=500&lines=IT+Systems;Infrastructure;Cybersecurity+Enthusiast"/>
+</p>
 
 ---
 
