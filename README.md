@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Samuel Cedilla</h1>
+<h3 align="center">Systems & DevOps enthusiast</h3>
 
-<!--
-**samuelcedilla/samuelcedilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Interested in **DevOps, Infrastructure and Automation**
+- ⚙️ Working with **Docker, Linux, Vagrant and Nginx**
+- 🌱 Currently learning **Cloud & Infrastructure as Code**
+- 📫 Contact: **yourmail@email.com**
+
+---
+
+### 🚀 Projects
+
+🔹 [Invoice PDF Builder](https://github.com/samuelcedilla/a3eco-InvoicePDFBuilder)
+
+A tool that generates PDF invoices automatically.
+
+---
+
+### 🛠 Tech Stack
+
+- Linux
+- Docker
+- Vagrant
+- Nginx
+- Git
+- Bash
+
+---
+
+### 🌐 Connect with me
+
+- 💼 LinkedIn
+- 🧠 Portfolio
+- 📄 CV
+
+---
+
+⭐ If you like my work feel free to star the repos
