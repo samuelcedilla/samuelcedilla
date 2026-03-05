@@ -1,42 +1,79 @@
-<h1 align="center">Hi 👋, I'm Samuel Cedilla</h1>
-<h3 align="center">Systems & DevOps enthusiast</h3>
+<h1 align="center">Samuel Cedilla</h1>
+<h3 align="center">Infrastructure • Systems • DevOps Enthusiast</h3>
 
 ---
 
-### 👨‍💻 About Me
+### 👋 About me
 
-- 💻 Interested in **DevOps, Infrastructure and Automation**
-- ⚙️ Working with **Docker, Linux, Vagrant and Nginx**
-- 🌱 Currently learning **Cloud & Infrastructure as Code**
-- 📫 Contact: **yourmail@email.com**
+I am an IT enthusiast focused on **systems administration, infrastructure and automation**.
+
+Currently studying **Network Systems Administration (ASIR)** while building practical projects around:
+
+- Linux systems
+- Infrastructure and networking
+- virtualization and containers
+- automation and DevOps tooling
+
+I enjoy experimenting with environments that simulate real infrastructure.
+
+---
+
+### 🧰 Technologies & Tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
+</p>
+
+**Areas of interest**
+
+• Systems Administration  
+• DevOps & Automation  
+• Infrastructure as Code  
+• Networking  
+• Cybersecurity fundamentals  
 
 ---
 
 ### 🚀 Projects
 
-🔹 [Invoice PDF Builder](https://github.com/samuelcedilla/a3eco-InvoicePDFBuilder)
+#### Invoice PDF Builder
+Automation tool to generate invoice PDFs from structured data.
 
-A tool that generates PDF invoices automatically.
+🔗  
+https://github.com/samuelcedilla/a3eco-InvoicePDFBuilder
 
----
+Future projects will focus on:
 
-### 🛠 Tech Stack
-
-- Linux
-- Docker
-- Vagrant
-- Nginx
-- Git
-- Bash
+- infrastructure labs
+- containerized services
+- automation scripts
+- deployment pipelines
 
 ---
 
-### 🌐 Connect with me
+### 📊 GitHub Activity
 
-- 💼 LinkedIn
-- 🧠 Portfolio
-- 📄 CV
+![stats](https://github-readme-stats.vercel.app/api?username=samuelcedilla&show_icons=true&theme=tokyonight)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcedilla&layout=compact&theme=tokyonight)
 
 ---
 
-⭐ If you like my work feel free to star the repos
+### 🌐 Links
+
+💼 LinkedIn  
+https://linkedin.com/in/samuelcedillasanchez
+
+📫 Contact  
+samuelcedillasanchez@gmail.com
+
+🌍 Portfolio  
+(coming soon)
+
+---
+
+⭐ Always learning, building and improving systems
