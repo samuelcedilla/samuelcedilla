@@ -1,83 +1,46 @@
-<h1 align="center">Samuel Cedilla</h1>
+<h1 align="center">Samuel Cedilla Sánchez</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=38BDF8&center=true&vCenter=true&width=700&lines=IT+Systems+•+Infrastructure+•+Cybersecurity+Enthusiast"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=38BDF8&center=true&vCenter=true&width=500&lines=ASIR+Student+•+IT+%26+Cybersecurity;Systems+•+Networking+•+Infrastructure"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=samuelcedilla&color=38bdf8&style=flat"/>
+  <a href="https://samuelcedillasanchez.com"><img src="https://img.shields.io/badge/Portfolio-samuelcedillasanchez.com-38bdf8?style=flat&logo=firefox"/></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/samuelcedillasanchez"><img src="https://img.shields.io/badge/LinkedIn-Samuel%20Cedilla-0a66c2?style=flat&logo=linkedin"/></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=samuelcedilla&color=38bdf8&style=flat"/>
 </p>
 
 ---
 
-### 👋 About me
+Network Systems Administration student with a strong interest in systems, IT support and cybersecurity.
+I enjoy understanding how technologies work and solving problems through practical and efficient solutions.
 
-I am an IT-oriented professional focused on **systems, infrastructure and technical support**.
-
-Currently studying **Network Systems Administration (ASIR)** and developing practical skills in:
-
-• system administration  
-• infrastructure environments  
-• IT support and troubleshooting  
-• cybersecurity fundamentals  
-
-I enjoy understanding how systems work internally and improving their reliability and efficiency.
+**Currently working on:** TFC ASIR — Edge Security Auditor · [Live demo →](https://samuelcedillasanchez.com/asir)
 
 ---
 
-### 🖥 Areas of Interest
-
-• Systems Administration  
-• IT Infrastructure  
-• Networking  
-• Cybersecurity  
-• Technical Support  
-
----
-
-### 🧰 Technologies & Tools
+### 🧰 Stack
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36"/>
 </p>
 
-Experience working with:
-
-• Windows and Linux environments  
-• Office and professional business software  
-• basic system configuration and troubleshooting  
-• data and system management  
+Windows · Linux · Networking · IT Support · Cybersecurity fundamentals
 
 ---
 
-### 🚀 Projects
+### 📁 Projects
 
-#### Invoice PDF Builder
-Tool designed to generate invoice PDFs from structured data.
-
-🔗  
-https://github.com/samuelcedilla/a3eco-InvoicePDFBuilder
-
-Future projects will focus on:
-
-• infrastructure labs  
-• system administration practices  
-• networking environments  
-• cybersecurity experimentation  
+| Project | Description |
+|---|---|
+| [a3eco Invoice PDF Builder](https://github.com/samuelcedilla/a3eco-InvoicePDFBuilder) | Automates PDF invoice generation from a3eco exported data |
+| [ASIR Edge Security Auditor](https://samuelcedillasanchez.com/asir) | Layer 4–7 web security audit tool — TFC ASIR |
 
 ---
 
-### 🌐 Connect with me
-
-💼 LinkedIn  
-https://linkedin.com/in/samuelcedillasanchez
-
-📫 Contact  
-samuelcedillasanchez@gmail.com
-
----
-
-⭐ Always learning and improving within the IT field
+<p align="center"><sub>Always learning · Always improving</sub></p>
